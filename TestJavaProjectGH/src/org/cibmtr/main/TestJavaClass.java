@@ -13,7 +13,9 @@ public class TestJavaClass {
 		// Class Update #3
 		System.out.println("This is the third update of this Java class");	
 		// Class Update #4
-		System.out.println("This is the fourth update of this Java class");			
+		System.out.println("This is the fourth update of this Java class");		
+		// Class Update #5
+		System.out.println("This is the fourth update of this Java class");		
 	}
 
 }
