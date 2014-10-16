@@ -10,6 +10,8 @@ public class TestJavaClass {
 		System.out.println("This is the first update of this Java class");
 		// Class Update #2
 		System.out.println("This is the second update of this Java class");		
+		// Class Update #3
+		System.out.println("This is the third update of this Java class");			
 	}
 
 }
