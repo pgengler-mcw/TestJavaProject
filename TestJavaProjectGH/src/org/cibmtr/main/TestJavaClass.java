@@ -8,6 +8,8 @@ public class TestJavaClass {
 		System.out.println("This is a test Java class + pi: " + pi);
 		// Class Update #1	
 		System.out.println("This is the first update of this Java class");
+		// Class Update #2
+		System.out.println("This is the second update of this Java class");		
 	}
 
 }
